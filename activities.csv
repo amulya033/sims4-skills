@@ -1,0 +1,44 @@
+Activity,Time,Charisma,Comedy,Cooking,Gourmet Cooking,Fishing,Fitness,Gardening,Guitar,Handiness,Logic,Mischief,Mixology,Painting,Photography,Piano,Programming,Rocket Science,Video Game,Violin,Writing
+Practice Speech at Mirror,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flirt with a Sim,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stand-Up Routine at Microphone Stand,60,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Practice Comedy on Computer,30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Try Improv Routines at Microphone Stand,60,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook Simple Meal on Stove,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Watch Cooking Show on TV,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook Gourmet Meal on Counter,180,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Read Gourmet Cooking Guide,20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fish at Community Fishing Spot,120,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Read Fishing Guide Book,30,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Treadmill Workout,30,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Punching Bag Session,30,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tend Garden Bed,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bonsai Tree Pruning,15,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Practice Guitar on Amp,30,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Publish Song on Computer,60,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Repair Sink,45,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Craft at Woodworking Table,90,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Read Logic Skill Book,30,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Solve Telescope Puzzles,45,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Use Microscope,45,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Practice Mischief on Computer,30,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Voodoo Doll Interaction,30,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Mix Drinks at Bar Counter,30,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Bar Tricks Practice,45,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Paint on Easel,60,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Sketch on Digital Sketchpad,45,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Snap Photos with Camera,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Use In a Flash Photo Studio,60,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Practice Piano on Grand Piano,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Watch Piano Tutorial Video,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Code on Computer,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Hack on Computer,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Upgrade Rocket Ship,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Experiment with Rocket Ship,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Play on Gaming Console,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Stream Video Game on Computer,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Play Violin on Stand,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,
+Perform Violin Solo at Microphone Stand,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,
+Watch Violin Tutorial Video on TV,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,
+Write Novel on Computer,720,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Write Short Story in Journal,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
